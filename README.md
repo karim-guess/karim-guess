@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 Salut, moi c'est [Ton Prénom] !
+
+# 👋 Salut, moi c'est Karim !
 
 🎯 **Développeur Web Freelance** — spécialisé en **Java Spring Boot** & **React**
 
@@ -29,15 +29,15 @@
 
 ### 📂 Projets récents
 
-- 🔗 [Nom du projet 1](https://github.com/tonpseudo/nom-du-projet-1) — App de gestion avec React + Spring Boot  
-- 🔗 [Nom du projet 2](https://github.com/tonpseudo/nom-du-projet-2) — Back-office Symfony  
-- 🔗 [Nom du projet 3](https://github.com/tonpseudo/nom-du-projet-3) — MVP de type SaaS
+- 🔗 [Patient tracker]((https://github.com/karim-guess/patient-tracker-java-react.git)) — Dashboard Ambulancier/Patient | React + Spring Boot  
+- 🔗 [The Movie Database](https://github.com/karim-guess/TMDb-webservice.git) — TMDb Service api | Php  
+- 🔗 [Todo React](https://github.com/karim-guess/Todo-reactjs.git) — Todo | Reactjs et test de DaisyUi
 
 ---
 
 ### 📈 Statistiques GitHub
 
-![Ton nom d'utilisateur GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=**tonpseudo**&show_icons=true&theme=default)
+![Karim-guess](https://github-readme-stats.vercel.app/api?username=**karim-guess**&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**tonpseudo**&layout=compact)
 
 ---
