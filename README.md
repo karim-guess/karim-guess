@@ -29,7 +29,7 @@
 
 ### 📂 Projets récents
 
-- 🔗 [Patient tracker]((https://github.com/karim-guess/patient-tracker-java-react.git)) — Dashboard Ambulancier/Patient | React + Spring Boot  
+- 🔗 [Patient tracker](https://github.com/karim-guess/patient-tracker-java-react.git) — Dashboard Ambulancier/Patient | React + Spring Boot  
 - 🔗 [The Movie Database](https://github.com/karim-guess/TMDb-webservice.git) — TMDb Service api | Php  
 - 🔗 [Todo React](https://github.com/karim-guess/Todo-reactjs.git) — Todo | Reactjs et test de DaisyUi
 
@@ -44,9 +44,9 @@
 
 ### 📫 Me contacter
 
-- 🌐 [ton-portfolio.dev](https://ton-portfolio.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/tonprofil)
-- ✉️ contact@tonmail.dev
+- 🌐 [portfolio.dev](www.karimguessab.fr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karimguessab/)
+- ✉️ karim.guessab@hotmail.com
 
 ---
 
