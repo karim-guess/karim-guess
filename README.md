@@ -37,8 +37,8 @@
 
 ### 📈 Statistiques GitHub
 
-![Karim-guess](https://github-readme-stats.vercel.app/api?username=karim-guess&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-guess&layout=compact)
+![Karim-guess](https://github-readme-stats.vercel.app/api?username=karim-guess&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-guess&layout=compacticons=true&theme=onedark)
 
 ---
 
