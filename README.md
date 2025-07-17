@@ -44,7 +44,7 @@
 
 ### 📫 Me contacter
 
-- 🌐 [portfolio](www.karimguessab.fr)
+- 🌐 [portfolio](https://karimguessab.fr/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/karimguessab/)
 - ✉️ karim.guessab@hotmail.com
 
