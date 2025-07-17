@@ -37,8 +37,8 @@
 
 ### 📈 Statistiques GitHub
 
-![Karim-guess](https://github-readme-stats.vercel.app/api?karim=**karim-guess**&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?karim=**karim-guess**&layout=compact)
+![Karim-guess](https://github-readme-stats.vercel.app/api?username=karim-guess&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**karim-guess**&layout=compact)
 
 ---
 
@@ -53,7 +53,7 @@
 _💡 Merci de visiter mon profil ! N’hésite pas à me proposer des projets ou des collaborations._
 
 
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 
 
