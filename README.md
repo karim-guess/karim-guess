@@ -1,6 +1,6 @@
 
 
-# 👋 Salut, moi c'est Karim !
+# 👋 Salut, moi c'est Karim ! 
 
 🎯 **Développeur Web Freelance** — spécialisé en **Java Spring Boot** & **React**
 
