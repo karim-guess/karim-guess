@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est Karim ! 
 
-🎯 **Développeur Web Freelance** — spécialisé en **Java Spring Boot** & **React**
+🎯 **Développeur Web Freelance** — spécialisé en **Php/Symfony** & **Java/Spring Boot** & **React**
 
 ---
 
