@@ -8,9 +8,9 @@
 
 ### 🚀 À propos de moi
 
-- 🧠 Bac+2 en développement web & web mobile  
-- 💻 1 an d’expérience en projets bénévoles / personnels  
-- ⚙️ Stack actuelle : `Java`, `Spring Boot`, `React`, `PHP`, `Symfony`  
+- 🧠 Bac+4 en développement web & web mobile  
+- 💻 2 an d’expérience en projets bénévoles / personnels  
+- ⚙️ Stack actuelle : `Java`, `Spring Boot`, `React`, `Node`, `PHP`, `Symfony`, `Laravel` 
 - 📚 En apprentissage continu sur les architectures web modernes  
 - 🤝 Ouvert aux missions freelance (projets web, MVP, API, dashboards)
 
